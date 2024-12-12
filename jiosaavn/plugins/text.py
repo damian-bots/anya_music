@@ -32,7 +32,6 @@ class TEXT:
 **👑 Maintained By:** [Smaug](https://t.me/smaugxd)
 **📢 Updates Channel:** [Bots Hub](https://t.me/Botz_x_hub)
 **👥 Support Group:** [Alice Support](https://t.me/alice_x_support)
-**🔊 Vc Player Music Bot** [ Anya Damian ](https://t.me/Anya_x_Damian_bot)
 </blockquote>
 """
 
