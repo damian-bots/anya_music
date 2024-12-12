@@ -26,7 +26,7 @@ async def start(c, m):
             )
         except AttributeError:
             pass 
-    asyncio.sleep(0.5)        
+    await asyncio.sleep(0.5)        
     msg = m.message if getattr(m, "data", None) else await m.reply("**Processing....⌛**", quote=True)
     try:
         buttons = [
@@ -64,7 +64,7 @@ async def help_handler(client: Bot, message: Message | CallbackQuery):
             )
         except AttributeError:
             pass 
-    asyncio.sleep(0.5)
+    await asyncio.sleep(0.5)
     msg = message.message if getattr(message, "data", None) else await message.reply("**Processing....⌛**", quote=True)
     try:
         buttons = [
@@ -106,7 +106,7 @@ async def about(client: Bot, message: Message | CallbackQuery):
             )
         except AttributeError:
             pass 
-    asyncio.sleep(0.5)
+    await asyncio.sleep(0.5)
     try:
         msg = message.message if getattr(message, "data", None) else await message.reply("**Processing....⌛**", quote=True)
         me = await client.get_me()
