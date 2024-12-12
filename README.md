@@ -77,14 +77,7 @@ DATABASE_URL=mongodb_uri
 `BOT_COMMANDS` : Your wish 🙂
 
    
-## Running Methods
-
-1. **Deploy to Heroku**:
-   Click the button below to deploy to Heroku.
-
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/jiosaavn/tree/main)
-   
-2. **Local Setup**:
+ **Local Setup**:
    - Ensure you have Python and pip installed.
    - Follow the Installation steps above.
 
@@ -98,4 +91,20 @@ This project is licensed under the MIT License.
 
 ## DEVLOPER 👲 
 
-[𝙏𝙊𝙎𝙐❤‍🩹](telegram.me/about_tosuu) 
+[𝙏𝙊𝙎𝙐❤‍🩹](https://telegram.me/about_tosuu). 
+
+
+
+## 𝙐𝙥𝙙𝙖𝙩𝙚𝙨 𝙖𝙣𝙙 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘾𝙝𝙖𝙩
+»»————> [𝘽𝙤𝙩 𝙃𝙪𝙗](https://telegram.me/botz_x_hub) 
+
+»»————>[𝘽𝙤𝙩 𝙃𝙪𝙗](https://telegram.me/alice_x_support)
+
+
+𝙑𝙄𝙎𝙄𝙏 𝙊𝙐𝙍 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 
+
+
+
+
+
+
